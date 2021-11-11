@@ -33,7 +33,7 @@ function Columns() {
             )
         }
             <td> name</td>
-            <td>abdul</td>
+            <td>priya</td>
         </React.Fragment>
     )
 }
