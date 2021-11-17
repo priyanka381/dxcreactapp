@@ -14,6 +14,8 @@ import PortalDemo from './components/portals/PortalDemo';
 import HookCounter from './components/hooks/HookCounter';
 import HookCounter2 from './components/hooks/HookCounter2';
 import HookCounter3 from './components/hooks/Hookcounter3';
+import CounterHook1 from './components/hooks/useeffect/CounterHook1';
+import ClassCounter1 from './components/hooks/useeffect/ClassCounter1';
 
 
 function App() {
@@ -22,9 +24,10 @@ function App() {
     
       
       <PortalDemo/>
-      <HookCounter/>
-      <HookCounter2/>
-      <HookCounter3/>
+      <ClassCounter1/>
+      <CounterHook1/>
+    
+      
       
       
     </div>
