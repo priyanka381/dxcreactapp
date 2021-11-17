@@ -12,6 +12,7 @@ import PureComp from './components/PureComp';
 import Parentcomp from './components/Parentcomp';
 import PortalDemo from './components/portals/PortalDemo';
 import HookCounter from './components/hooks/HookCounter';
+import HookCounter2 from './components/hooks/HookCounter2';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       
       <PortalDemo/>
       <HookCounter/>
+      <HookCounter2/>
       
       
     </div>
