@@ -13,6 +13,7 @@ import Parentcomp from './components/Parentcomp';
 import PortalDemo from './components/portals/PortalDemo';
 import HookCounter from './components/hooks/HookCounter';
 import HookCounter2 from './components/hooks/HookCounter2';
+import HookCounter3 from './components/hooks/Hookcounter3';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <PortalDemo/>
       <HookCounter/>
       <HookCounter2/>
+      <HookCounter3/>
       
       
     </div>
