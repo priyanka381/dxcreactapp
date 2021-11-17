@@ -11,6 +11,7 @@ import NewTable from './components/NewTable';
 import PureComp from './components/PureComp';
 import Parentcomp from './components/Parentcomp';
 import PortalDemo from './components/portals/PortalDemo';
+import HookCounter from './components/hooks/HookCounter';
 
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
     
       
       <PortalDemo/>
-      
+      <HookCounter/>
       
       
     </div>
