@@ -10,13 +10,15 @@ import NewTable from './components/NewTable';
 
 import PureComp from './components/PureComp';
 import Parentcomp from './components/Parentcomp';
+import PortalDemo from './components/portals/PortalDemo';
 
 
 function App() {
   return (
     <div className="App">
+    
       
-      <Parentcomp/>
+      <PortalDemo/>
       
       
       
